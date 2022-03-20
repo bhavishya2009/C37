@@ -1,2 +1,2 @@
-# C37
-Car racer game with game state 'play'.
+# C37RV_SpeedRacer_StudentActivity
+Student Activity
